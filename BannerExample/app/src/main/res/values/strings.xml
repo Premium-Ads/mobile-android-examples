@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PremiumAds Banner Demo</string>
+    <string name="hello_world_gam_version">From PremiumAds with love (GAM Version)!</string>
+    <string name="hello_world_admob_version">From PremiumAds with love (AdMob Version)!</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="ad_unit_id">/75894840/app-adunit-demo/banner</string>
+
+</resources>
